@@ -12,6 +12,7 @@ run_analysis.R creates a tidy data set in a txt format (tidy.txt). It may be vie
   - subject (from 'subject_train.txt' and 'subject_test.txt')
   - activity (from 'y_train.txt' and 'y_test.txt') 
   - measured variables (from 'X_train.txt' and 'X_test.txt')
+
 The descriptive names of activities and column variables are extracted from the list of activities 'activity_labels.txt' and list of measured variable (i.e. features) 'features.txt'.
 
 #### 2. Identifies and extracts the columns corresponding to variables of the type 'mean' and 'standard deviation' ('std'). 
