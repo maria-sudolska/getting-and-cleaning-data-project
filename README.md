@@ -1,6 +1,7 @@
 # Data analysis by 'run_analysis.R'
 
-The purpose of the script 'run_analysis.R' is to obtain a tidy data set from the original data on 'Human Activity Recognition Using Smartphones Dataset, Version 1.0' by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto (further information and details on the data may be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#). Tidy data set contains only the data that correspond to the mean and standard deviation (std) values of the particular variables for each subject and activity (see CodeBook.md). 
+The purpose of the script 'run_analysis.R' is to obtain a tidy data set from the original data on 'Human Activity Recognition Using Smartphones Dataset, Version 1.0' by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto (further information and details on the data may be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#). 
+Tidy data set contains only the data that correspond to the mean and standard deviation (std) values of the particular variables for each subject and activity (see CodeBook.md). 
 
 run_analysis.R creates a tidy data set in a txt format (tidy.txt).
 
