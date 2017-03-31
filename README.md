@@ -30,4 +30,5 @@ The descriptive names of activities and column variables are extracted from the 
 To view the data, load the data in R Studio and use View():
 
 tidy <- read.table("./tidy.txt", header = TRUE)
+
 View(tidy)
